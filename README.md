@@ -28,14 +28,6 @@
 
 4. Visual Analysis - Univariate, Bivariate after pre-processing of the data
 
-Note: Pre-processing involves unnesting of the data in columns like Actor, Director, Country
-
-4.1 For continuous variable(s): Distplot, countplot, histogram for univariate analysis 
-
-4.2 For categorical variable(s): Boxplot 
-
-4.3 For correlation: Heatmaps, Pairplots
-
 5. Missing Value & Outlier check (Treatment optional)
 
 6. Insights based on Non-Graphical and Visual Analysis
