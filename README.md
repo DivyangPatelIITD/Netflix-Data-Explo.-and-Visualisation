@@ -32,12 +32,6 @@
 
 6. Insights based on Non-Graphical and Visual Analysis
 
-  - Comments on the range of attributes
-
-- Comments on the distribution of the variables and relationship between them
-
-6.3 Comments for each univariate and bivariate plot
-
 7. Business Insights  - Should include patterns observed in the data along with what you can infer from it
 
 8. Recommendations  - Actionable items for business. No technical jargon. No complications. Simple action items that everyone can understand
