@@ -35,3 +35,5 @@
 7. Business Insights  - Should include patterns observed in the data along with what you can infer from it
 
 8. Recommendations  - Actionable items for business. No technical jargon. No complications. Simple action items that everyone can understand
+
+**Please open report.pdf file to view full analysis**
