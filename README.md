@@ -32,7 +32,7 @@
 
 6. Insights based on Non-Graphical and Visual Analysis
 
-- Comments on the range of attributes
+  - Comments on the range of attributes
 
 - Comments on the distribution of the variables and relationship between them
 
